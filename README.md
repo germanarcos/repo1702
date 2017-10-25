@@ -8,3 +8,6 @@
 1. Espero que funcione
 
 ## Vamos a hacer la prueba
+- De momento ha funcionado
+- Más actualizaciones
+- No debería haber ningún problema
